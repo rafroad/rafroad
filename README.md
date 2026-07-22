@@ -1,3 +1,5 @@
+![logo](logo.png)
+
 ## Somebody who likes coding 
 
 ## Current Language: 
